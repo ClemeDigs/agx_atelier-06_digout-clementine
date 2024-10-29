@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1",
+    "name": "Projet 1",
+    "img": "./static/img/projet1.jpg",
+    "imgAlt": "Image du projet 1",
+    "description": "Sweet chocolate bar soufflé lollipop marshmallow gummies candy marzipan. Candy canes jelly-o liquorice muffin dragée sesame snaps tootsie roll cake. Dessert croissant candy canes jelly-o cake pie gingerbread cotton candy. Oat cake cake toffee oat cake gummi bears macaroon donut chocolate bar powder. Tootsie roll oat cake marshmallow lollipop cheesecake danish gingerbread shortbread. Donut brownie chocolate pie candy. Cake muffin liquorice jelly beans sesame snaps biscuit macaroon tootsie roll.",
+    "date": "2024-10-24",
+    "type": "programmation",
+    "liens": {
+      "github": "https://github.com/ClemeDigs/portefolio_3.git",
+      "youtube": "https://github.com/ClemeDigs/portefolio_3.git",
+      "figma": "https://github.com/ClemeDigs/portefolio_3.git"
+    },
+    "stack": ["html", "sass", "javascript", "npm", "git"],
+    "colStart": 1,
+    "colSpan": 1,
+    "rowStart": 1,
+    "rowSpan": 1
+  },
+  {
+    "id": "2",
+    "name": "Projet 2",
+    "img": "./static/img/projet2.jpg",
+    "imgAlt": "Image du projet 2",
+    "description": "Sweet chocolate bar soufflé lollipop marshmallow gummies candy marzipan. Candy canes jelly-o liquorice muffin dragée sesame snaps tootsie roll cake. Dessert croissant candy canes jelly-o cake pie gingerbread cotton candy. Oat cake cake toffee oat cake gummi bears macaroon donut chocolate bar powder. Tootsie roll oat cake marshmallow lollipop cheesecake danish gingerbread shortbread. Donut brownie chocolate pie candy. Cake muffin liquorice jelly beans sesame snaps biscuit macaroon tootsie roll.",
+    "date": "2024-10-24",
+    "type": "design",
+    "liens": {
+      "figma": "https://github.com/ClemeDigs/portefolio_3.git",
+      "youtube": "https://github.com/ClemeDigs/portefolio_3.git"
+    },
+    "stack": ["figma", "illustrator", "photoshop"],
+    "colStart": 2,
+    "colSpan": 1,
+    "rowStart": 1,
+    "rowSpan": 2
+  },
+  {
+    "id": "3",
+    "name": "Projet 3",
+    "img": "./static/img/projet3.png",
+    "imgAlt": "Image du projet 3",
+    "description": "Sweet chocolate bar soufflé lollipop marshmallow gummies candy marzipan. Candy canes jelly-o liquorice muffin dragée sesame snaps tootsie roll cake. Dessert croissant candy canes jelly-o cake pie gingerbread cotton candy. Oat cake cake toffee oat cake gummi bears macaroon donut chocolate bar powder. Tootsie roll oat cake marshmallow lollipop cheesecake danish gingerbread shortbread. Donut brownie chocolate pie candy. Cake muffin liquorice jelly beans sesame snaps biscuit macaroon tootsie roll.",
+    "date": "2024-10-24",
+    "type": "programmation",
+    "liens": {
+      "github": "https://github.com/ClemeDigs/portefolio_3.git"
+    },
+    "stack": ["html", "css", "javascript", "librairies javascript"],
+    "colStart": 3,
+    "colSpan": 1,
+    "rowStart": 1,
+    "rowSpan": 1
+  },
+  {
+    "id": "4",
+    "name": "Projet 4",
+    "img": "./static/img/projet4.jpg",
+    "imgAlt": "Image du projet 4",
+    "description": "Sweet chocolate bar soufflé lollipop marshmallow gummies candy marzipan. Candy canes jelly-o liquorice muffin dragée sesame snaps tootsie roll cake. Dessert croissant candy canes jelly-o cake pie gingerbread cotton candy. Oat cake cake toffee oat cake gummi bears macaroon donut chocolate bar powder. Tootsie roll oat cake marshmallow lollipop cheesecake danish gingerbread shortbread. Donut brownie chocolate pie candy. Cake muffin liquorice jelly beans sesame snaps biscuit macaroon tootsie roll.",
+    "date": "2024-10-24",
+    "type": "animation",
+    "liens": {
+      "youtube": "https://github.com/ClemeDigs/portefolio_3.git"
+    },
+    "stack": ["After effects", "Adobe Animate", "Adobe Illustrator"],
+    "colStart": 1,
+    "colSpan": 1,
+    "rowStart": 2,
+    "rowSpan": 1
+  },
+  {
+    "id": "5",
+    "name": "Projet 5",
+    "img": "./static/img/projet5.png",
+    "imgAlt": "Image du projet 5",
+    "description": "Sweet chocolate bar soufflé lollipop marshmallow gummies candy marzipan. Candy canes jelly-o liquorice muffin dragée sesame snaps tootsie roll cake. Dessert croissant candy canes jelly-o cake pie gingerbread cotton candy. Oat cake cake toffee oat cake gummi bears macaroon donut chocolate bar powder. Tootsie roll oat cake marshmallow lollipop cheesecake danish gingerbread shortbread. Donut brownie chocolate pie candy. Cake muffin liquorice jelly beans sesame snaps biscuit macaroon tootsie roll.",
+    "date": "2024-10-24",
+    "type": "programmation",
+    "liens": {
+      "github": "https://github.com/ClemeDigs/portefolio_3.git",
+      "youtube": "https://github.com/ClemeDigs/portefolio_3.git"
+    },
+    "stack": ["html", "tailwind", "javascript", "react"],
+    "colStart": 3,
+    "colSpan": 1,
+    "rowStart": 2,
+    "rowSpan": 2
+  },
+  {
+    "id": "6",
+    "name": "Projet 6",
+    "img": "./static/img/projet5.png",
+    "imgAlt": "Image du projet 6",
+    "description": "Sweet chocolate bar soufflé lollipop marshmallow gummies candy marzipan. Candy canes jelly-o liquorice muffin dragée sesame snaps tootsie roll cake. Dessert croissant candy canes jelly-o cake pie gingerbread cotton candy. Oat cake cake toffee oat cake gummi bears macaroon donut chocolate bar powder. Tootsie roll oat cake marshmallow lollipop cheesecake danish gingerbread shortbread. Donut brownie chocolate pie candy. Cake muffin liquorice jelly beans sesame snaps biscuit macaroon tootsie roll.",
+    "date": "2024-10-24",
+    "type": "programmation",
+    "liens": {
+      "github": "https://github.com/ClemeDigs/portefolio_3.git",
+      "youtube": "https://github.com/ClemeDigs/portefolio_3.git"
+    },
+    "stack": ["html", "tailwind", "javascript", "react"],
+    "colStart": 1,
+    "colSpan": 2,
+    "rowStart": 3,
+    "rowSpan": 1
+  }
+]
